@@ -1,0 +1,2 @@
+We need to predict Customer in the Bank who will be Exiting in the Future or not.
+This Churn Modeling playes very imporamt role for Bank, because Bank do want to leave the Customer. (If customer exits the bank in futre so, bank can provide any extra features so customer won lave the bank)
