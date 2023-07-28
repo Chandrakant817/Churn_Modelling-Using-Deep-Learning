@@ -5,3 +5,6 @@
    > !pip install tensorflow-gpu
 
 Keras documentation:- https://keras.io/about/
+
+#### Reference :-
+YouTube video url - https://www.youtube.com/live/ydzFSLDmHmE?feature=share
